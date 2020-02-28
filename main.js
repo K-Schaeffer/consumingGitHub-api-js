@@ -34,6 +34,5 @@ function addList(data) {
         ulElement.appendChild(liElement);
     });
 
-    document.querySelector("#teste").appendChild(ulElement);
-
+    document.querySelector("#form").appendChild(ulElement);
 }
